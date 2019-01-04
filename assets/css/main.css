@@ -3901,3 +3901,13 @@ mark {
   background-color: yellow;
   color: black;
 }
+
+.ucsc-logo-box {
+  max-width: 250px;
+  padding: 1rem 0;
+}
+
+.ucsc-logo-box > img {
+  width: 100%;
+  object-fit: contain;
+}
